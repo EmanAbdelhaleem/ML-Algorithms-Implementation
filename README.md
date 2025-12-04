@@ -1,6 +1,6 @@
 # ML-Algorithms-Implementation
 
----
+
 
 # 1. Color Extraction using K-Means
 
@@ -13,7 +13,3 @@ This notebook demonstrates how to extract the **dominant colors** from an image 
 * Extracts dominant colors
 * Visualizes the results
 * Very easy to modify for any image
-
-
-
-If you want, I can also create a more advanced README with examples, images, or explanations of K-Means.
