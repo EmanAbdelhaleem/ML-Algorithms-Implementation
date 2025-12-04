@@ -4,7 +4,7 @@
 
 # 1. Color Extraction using K-Means
 
-This notebook demonstrates how to extract the **dominant colors** from an image using the namnually implemented **K-Means clustering algorithm**. The notebook loads an image, applies clustering on its pixels, and displays the most important colors found.
+This notebook demonstrates how to extract the **dominant colors** from an image using **the manually implemented K-Means clustering algorithm**. The notebook loads an image, applies clustering on its pixels, and displays the most important colors found.
 
 ## Features
 
